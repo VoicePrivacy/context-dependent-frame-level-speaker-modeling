@@ -1,0 +1,49 @@
+<!-- saved from url=(0041)https://yaden2018.github.io/multispeaker/ -->
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <title>Investigation into voice protection preserving human perception by speech generation
+    </title>
+    <link rel="shortcut icon" href="https://vancycici.github.io/fbdecode/img/ms.jpg">
+    <link rel="icon" href="https://vancycici.github.io/fbdecode/img/ms.jpg">
+    <link rel="apple-touch-icon" href="https://vancycici.github.io/fbdecode/img/ms.jpg">
+</head>
+<body>
+<script type="text/javascript" async="" src="./ADVERSARIAL SPEECH FOR VOICE PRIVACY PROTECTION AGAINST PERSONALIZED
+SPEECH GENERATION/analytics.js.download"></script>
+<script async="" src="./ADVERSARIAL SPEECH FOR VOICE PRIVACY PROTECTION AGAINST PERSONALIZED
+SPEECH GENERATION/js"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+    gtag('config', 'UA-125850295-1');
+</script>
+
+<article>
+    <header>
+        <h1>Context-dependent frame-level speaker modeling in voice anonymization</h1>
+    </header>
+</article>
+<div><b>Authors:</b> Wenju Gu, Zeyan Liu, Liping Chen, Kong AiK Lee, Zhen-Hua Ling, Wu Guo</a> </div>
+
+<div><b>Abstract:</b>  State-of-the-art voice anonymization framework involves speaker attributes disentanglement, pseudo-speaker representation construction and anonymized speech generation. Unlike commonly used utterance- and speaker-level speaker representations, this paper proposes a waveform construction model for voice anonymization which leverages frame-level speaker representation modeling. Specifically, pseudo-speaker estimation is achieved in a context-dependent manner by utilizing the attention mechanism to align frames between the original and cohort utterances based on their content information. 
+Experiments conducted on the LibriSpeech and VCTK datasets validated the proposed method in improving the voice anonymization performances in terms of de-identification, voice distinctiveness, and speech quality. </div>
+
+<br/>
+<br/>
+<br/>
+
+
+Here, we showcase three kinds of speech utterances:
+(1)the original speech;
+(2)the anonymized(anon) speech
+
+
+</body>
+</html>
