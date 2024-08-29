@@ -117,7 +117,6 @@ Here, we showcase three kinds of anonymized speech:
 <table>
     <thead>
         <tr>
-            <th>Original</th>
             <th>Context</th>
             <th>NAC</th>
             <th>PSD</th>
@@ -185,7 +184,6 @@ Here, we showcase three kinds of anonymized speech:
 <table>
     <thead>
         <tr>
-            <th>Original</th>
             <th>Context</th>
             <th>NAC</th>
             <th>PSD</th>
